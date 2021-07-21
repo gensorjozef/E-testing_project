@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+body {
+    background-image: url("../images/main_bgr_1.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: right;
+}
+
+@media only screen and (max-width: 767px) {
+    body {
+      background-color: #B5EADD !important;
+      background-image: none;
+    }
+}
+
+.title{
+    color: #6e24ce;
+    font-size: 10vw;
+    font-family: 'Itim', cursive;
+    font-weight: bold;
+}
+h2{
+    font-family: 'Itim', cursive;
+}
+/* #first {
+    width: 50%;
+    float:left;
+    position: absolute;
+    top: 30%;
+} */
+
+/* .inputs-style{
+    width: 300px;
+    height: 40px;
+    margin: 5px;
+} */
+.btn{
+    color: white;
+}
+.btn:hover {
+    color: white;
+}
+.purple{
+    background-color: #6e24ce;
+}
+.yellow{
+    background-color: orange;
+}
+.red{
+    background-color: crimson;
+}

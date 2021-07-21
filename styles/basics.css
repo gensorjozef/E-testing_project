@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+body {
+    background-image: url("../images/bgr2_t.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    /* background-color: #96d9c7; */
+}
+.container{
+    background-color: #B5EADD !important;
+}
+.btn{
+    background-color: #6e24ce !important;
+}
+
+#filldetails{
+    color: #6e24ce;
+    text-decoration: none;
+}
+
+#filldetails:hover{
+    color: #6e24ce;
+}
+
+.light-bgr{
+    background-color: #B5EADD !important;
+    border: 2px solid #6e24ce;
+    color: #6e24ce;
+}
+.light-bgr:hover{
+    color: #6e24ce;
+}

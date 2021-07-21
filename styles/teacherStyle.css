@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+body {
+    background-image: url("../images/bgr2_t.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-color: #96d9c7; */
+}
+.purple{
+    background-color: #6e24ce;
+}
+.yellow{
+    background-color: orange;
+}
+.red{
+    background-color: crimson;
+}
+.text-center{
+    text-align: center;
+}
+.text-white {
+    color: white;
+    text-decoration: none;
+}
+.text-white:hover {
+    color: white;
+}
+.text-purple{
+    color: #6e24ce;
+}
+.table-head{
+    font-weight: bold;
+}
+.logout-btn{
+    display: flex; 
+    justify-content: flex-end;
+    margin: 10px 30px 10px 0 ;
+}
+
+/* .add-test-div{
+    background-color: pink;
+}
+.tests-div{
+    background-color: blue;
+}
+.csv-export-div{
+    background-color: brown;
+}
+.test-detail-div{
+    background-color: green;
+}
+.test-activity-div{
+    background-color: lawngreen;
+} */
+
+.col-2-div{
+    width: 95%;
+}
+
+.inputs-style{
+    width: 90%;
+    height: 40px;
+    margin: 5px;
+}
+
+.inputs-area{
+    background-color: #B5EADD;
+    border: 1px solid #6e24ce;
+    border-radius: 25px;
+    /* margin-right: 30px; */
+}
+
+.inputs-area > * {
+    margin: 15px 0;
+}
+
+.tests-div{
+    /* margin-left: 330px; */
+    background-color: #B5EADD;
+    border: 1px solid #6e24ce;
+    border-radius: 25px;
+}
+
+
+/* #first {
+    width: 50%;
+    float:left;
+    position: absolute;
+} */
+/* .btn{
+    color: white;
+}
+.btn:hover {
+    color: white;
+}  */
+/* 
+.title{
+    color: #6e24ce;
+    font-size: 150px;
+    font-family: 'Itim', cursive;
+    font-weight: bold;
+}
+h2{
+    font-family: 'Itim', cursive;
+}
+#first {
+    width: 50%;
+    float:left;
+    position: absolute;
+    top: 30%;
+}
+
+.inputs-style{
+    width: 300px;
+    height: 40px;
+    margin: 5px;
+}
+.btn{
+    color: white;
+}
+.btn:hover {
+    color: white;
+} */
